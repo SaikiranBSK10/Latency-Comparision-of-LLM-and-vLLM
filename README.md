@@ -3,7 +3,7 @@ Project is to measure and compare the response times (latency) of VLLM and LLM f
 
 ## Workflow
 - Model Initialization: Both VLLM and OpenAI's LLM are initialized.
-- Prompt Definition: A medical context and a related question are defined.
+- Prompt Definition: A sample context and a related question are defined.
 - Latency Measurement: A function measures the time taken by each model to generate a response to the given prompt.
 - Output Display: The latency and generated output for each model are printed.
 
